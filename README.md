@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Makes a endless list of 2-word combos and you can select and store your favorite combinations. 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
